@@ -32,6 +32,7 @@ main {
     justify-content: center;
 }
 .glass {
+    margin: 50px 0px;
     background: #fff;
     min-height: 80vh;
     width: 60%;
